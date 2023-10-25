@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![An image of @ruchnaspottah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchnaspottah)](https://holopin.io/@ruchnaspottah)
 <!--
 **RuchNas-Pottah/RuchNas-Pottah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
